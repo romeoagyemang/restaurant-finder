@@ -1,6 +1,6 @@
 # restaurant_app
 
-A new Flutter project.
+A simple flutter application that displays restaurant names in a simple list and users can also filter by searching restaurant names, using Riverpod for state management.
 
 ## Getting Started
 
